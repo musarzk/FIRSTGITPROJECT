@@ -1,0 +1,28 @@
+Websites for images
+pexels.com
+
+canva.com
+
+pixabay.com
+
+https://www.carlogos.org
+
+			
+			This section is for fonts
+
+https://fontawesome.com
+
+
+
+			This section is for animations using animate.css
+https://daneden.github.io/animate.css/?
+
+			
+			This section is for Bootstrap
+https://getbootstrap.com/docs/4.3/components/navbar/
+
+			This section is for adding  shadows
+https://www.cssmatic.com
+
+		This is to check network speed
+fast.com - This is used to check the network speed 

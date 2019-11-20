@@ -1,0 +1,606 @@
+body{
+    width:auto;
+    margin:0;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans" sans-serif;
+}.welcomee{
+    background-image: url(../img/rain.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 565px;
+    margin: 0;
+    text-align: center;
+    color: white;
+    padding: 0;
+}
+
+
+
+h1{
+padding-top: 10px;
+font-weight: 700;
+    
+}
+.big-h1{ 
+    font-size: 180px;
+
+}
+.small-h1{
+    font-size: 72px;
+}
+.welcome_text{  
+    font-size: 24px;
+
+}
+.media-icon-list li{
+    display: inline-block;
+    margin-left: 35px;
+    font-size: 33px;
+}
+.fb{
+    color: rgb(48, 95, 196);
+}
+.tw{
+    color: rgb(62, 152, 243);
+}
+.bb{
+    color: rgb(224, 34, 65);
+}
+.gp{
+    color: rgb(201, 33, 33);
+}
+.lkn{
+    color: rgb(52, 144, 236);
+}
+.ig{
+    color: rgb(255, 0, 128);
+}
+.vm{
+    color: rgb(40, 179, 197);
+}
+.yb{
+    color: rgb(235, 25, 25);
+}
+.tb{
+    color: rgba(181, 184, 187, 0.527);
+}
+.naav{
+    border-bottom: 1px solid rgb(194, 190, 190);
+}
+
+.navy ul{
+    margin-left: 300px;
+}
+.navy ul li{
+   padding: 11px 22px;
+}
+.navy li a{
+    color: black;
+    font-weight: bolder;
+    padding: 10px;
+}
+.navy li:hover {
+    background: #585853;
+    color: white;
+}
+
+.woork{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.woork h2{
+    font-size: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: black;
+    padding-top: 100px;
+}
+h2{
+
+    font-size: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: black;
+    padding-top: 100px;
+}
+.or-line {
+    border-top: 4px solid rgb(156, 153, 153);
+    width: 50px;
+    margin: 0 auto;
+    min-height: 20px;
+}
+
+.roow-1{
+    margin-top: 30px;
+}
+.roow-2{
+    margin-top: 30px;
+}
+.img-holder {
+  position: relative;
+  width: 100%;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: rgb(255, 255, 255);
+}
+.img-holder:hover .overlay {
+  opacity: 0.8;
+}
+
+.text {
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    margin: auto auto;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  .force1{
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: none;
+    margin-bottom: 25px;
+}
+.force2{
+    color: #666;
+    font-size: 18px;
+}
+.zing a{
+    padding: 9px 18px;
+    margin-top: 40px;
+}
+.cityy{
+    background-image: url(../img/Chrysanthemum.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    min-height: 750px;
+    text-align: center
+}
+
+
+.city{
+    background-color: #44424088;
+    width: 100%;
+    height: 100%;
+}
+.city-text{
+    font-size: 30px;
+    margin-top: 50px;
+    padding: 25% 2%;
+    width: 1263px;
+    height: 750px;
+}
+.body-content{
+    background-color: rgb(54, 54, 54);
+    text-align: center;
+    
+}
+.body-content h2{
+    color: white;
+    margin: 0 0 8px 0;
+}
+.body-content p{
+    color: white;
+    font-size: 18px;
+}
+.servicez h2{
+    font-size: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 100px;
+}
+
+.service-info{
+    margin-bottom: 50px;
+}
+.my-size{
+    color: white;
+    font-size: 50px;
+    margin: 30px auto;
+    cursor: pointer;
+}
+.head-infor{
+    color: white;
+}
+.vrt{
+    margin-top: 50px;
+    padding: 30px 0;
+}
+.inf{
+    padding-left: 130px;
+}
+.vrt-inf h4{
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.inf-1{
+    color: white;
+    margin: 0 0;
+    padding-top: 160px;
+}
+.vrt p{
+    font-size: 14px;
+}
+.package-info{
+    color: white;
+    font-size: 20px;
+    margin: 45px 0;
+}
+.zing-up{
+    margin-bottom: 20px;
+}
+.vrt-prm{
+    margin-top: 50px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 7px;
+    padding: 30px 0;
+}
+.vrt-prm h4{
+    color: black;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.vrt-prm .inf-1{
+    color: black;
+    margin: 0 0;
+    padding-top: 160px;
+}
+.vrt-prm p{
+    font-size: 14px;
+    color: black;
+}
+.vrt-prm .package-info{
+    color: black;
+    font-size: 20px;
+    margin: 45px 0;
+}
+.prm-inf h2{
+    padding-left: 130px;
+    color: black;
+}
+.forcee1{
+    margin: 100px 100px 0 100px;
+}
+.force11{
+    color:white;
+    text-align: left;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.force22{
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.mid-img{
+    background-image: url(../img/Penguins.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 750px;
+    margin: 0;
+}
+.mid-img-txt{
+    padding-top: 300px ;
+    color: white;
+    font-size: 40px;
+}
+.abbt{
+    text-align: center;
+}
+.abbt h2{
+    margin-bottom: 30px;
+}
+.abbt p{
+    color: rgb(88, 83, 83);
+    font-size: 18px;
+}
+.media-icon-list2 li{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.media-icon-list2 a{
+    padding: 5px;
+    color: #585853;
+}
+.skills{
+    margin-top: 100px;
+}
+.skills h3{
+    font-size: 32px;
+}
+.skills p{
+    font-size: 18px;
+    color: #505050;
+}
+.skill-row{
+    background-color: rgb(201, 201, 206);
+    height: 30px;
+}
+.skill-bar{
+    background-color: rgb(126, 125, 125);
+}
+.each-skill{
+    margin: 10px 0;
+}
+.team{
+    margin: 100px 0;
+}
+.team h3{
+    font-size: 32px;
+}
+.team p{
+    font-size: 18px;
+    color: #505050;
+}
+.team-header{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 22px;
+    margin-bottom: 0;
+}
+.team-body{
+    color: #777;
+    margin-bottom: 20px;
+}
+.mid-img2{
+    background-image: url(../img/Lighthouse.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 750px;
+    margin: 0;
+}
+.img{
+    width: 100%;
+}
+.card-cnt{
+    background: #f8f8f8;
+    padding: 30px 40px 40px 40px;
+    margin-bottom: 60px;
+}
+.info-about-post{
+    color: #a0a0a0;
+    font-size: 13px;
+    margin-bottom: 0;
+}
+.card-title{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #2c2c2c;
+}
+.lynk{
+    color: #2c2c2c;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+    margin-top: 24px;
+}
+.card-container{
+    margin-top: 100px;
+}
+.mid-img3{
+    background-image: url(../img/rain.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    min-height: 750px;
+    margin-top: 100px;
+}
+.contact-box{
+    width: 100%;
+}
+.home-box{
+    padding-left: 15%;
+}
+.home-icon{
+    font-size: 45px;
+    color: #ccc;
+    margin-bottom: 15px;
+}
+.content{
+    background-color: #3e3f40;
+    border-radius: 3px;
+    width: 200px;
+    height: 170px;
+    padding:30px;
+    margin: 0 auto;
+}
+.content p{
+    font-size: 15px;
+}
+#contactForm{
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 130px;
+}
+#contactForm input{
+    width: 750px;
+    height: 50px;
+}
+label{
+    color: white;
+}
+textarea{
+    width: 749px;
+    height: 121px;
+    margin-bottom: 30px;
+}
+.send-btn{
+    background: #2c2c2c;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    border: none;
+    padding: 16px 38px;
+}
+footer {
+    background: #2c2c2c;
+    color: #fff;
+    text-align: center;
+    padding: 40px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.move{
+    border-bottom: 1px solid grey;
+}
+
+
+
+.fa-facebook-square{
+    font-size: 40px;
+    color: rgb(121, 121, 245);
+    margin-right: 10px;
+}
+.fa-dribbble-square{
+    font-size: 40px;
+    color: brown;
+    margin-right: 10px;
+}
+.fa-google-plus-square{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.fa-linkedin{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.fa-instagram{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.fa-vimeo{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.fa-youtube-square{
+    font-size: 40px;
+    margin-right: 10px;
+}
+.fa-tumblr-square{
+    font-size: 40px;
+    margin-right: 10px;
+}
+#back{
+    background-image: url(../img/christos-barbalis-223977-400x232\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+#back p{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 200px;
+    font-weight: 70px;
+    color: white;
+}
+#contact{
+    background-color: black;
+    height: 900px;
+}
+#contact h2{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+#contact p{
+    text-align: center;
+    color: white;
+}
+
+form{
+margin-left: 50px;
+
+}
+.form-group{
+    margin-top: 70px;
+    width: 970px;
+}
+.form-group label{
+    color: white;
+}
+
+.run{
+    text-align: center;
+    margin-top: 150px;
+}
+.run h1{
+    font-size: 100px;
+}
+.run p{
+    margin-top: 40px;
+    font-size: 20px;
+}
+.carousel {
+    margin-top: 150px;
+}
+
+
+.dubble{
+    margin-top:100px;
+    background-color: rgba(230, 225, 225, 0.87);
+    border-radius: 10px;
+   
+}
+.dubble a{
+    color: black;
+}
+
+.yusuf{
+    margin-top: 40px;
+}
+.yusuf2{
+    margin-top: 20px;
+}
